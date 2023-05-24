@@ -1,4 +1,4 @@
-# Ziggy PHP Voicebot ChatGPT
+# Ziggy PHP Voicebot - ChatGPT
 A chatgpt powered voicebot implemented in PHP.
 
 <br>
