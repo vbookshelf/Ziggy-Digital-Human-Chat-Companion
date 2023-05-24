@@ -9,3 +9,4 @@ Version 1.0<br>
 24-May-2023<br>
 First release<br>
 1- Basic setup that does not include the "Save chat" feature<br>
+2- Voicechat works on Mac but it's unstable on Windows and Android.
