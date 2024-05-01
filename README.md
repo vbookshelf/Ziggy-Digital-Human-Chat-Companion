@@ -1,5 +1,9 @@
-# Ziggy PHP Voicebot - ChatGPT
-A chatgpt powered voicebot implemented in PHP.
+# Ziggy PHP Voicebot - Llama3-70b and Groq
+A php voicebot powered by Llama3-70b and Groq.
+
+You can communicate with Ziggy using either your voice or text. Ziggy will respond with both voice and text. Yes, it's like Jarvis.
+
+This project demonstrates a simple and cheap way to create a personal voicebot using only HTML, CSS and Javascript.
 
 <br>
 
@@ -18,6 +22,12 @@ https://github.com/vbookshelf/Khuluma-Javascript-Voicebot-ChatGPT
 <br>
 
 ## Revision History
+
+Version 2.0<br>
+1-May-2024<br>
+1- Replaced ChatGPT with Llama3-70b running on Groq.<br>
+2- Removed csv file saving and loading.<br>
+
 
 Version 1.1<br>
 25-May-2023<br>
