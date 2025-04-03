@@ -21,7 +21,13 @@ Ziggy is meant to be a baseline digital human that can be improved. For example 
 To date I've identified three features that I think are most important:
 - A powerful LLM
 - Low latency
-- A warm (smiley) voice 
+- A warm (smiley) voice
+
+## Aside
+
+A tip for companies that are creating voices for text to speech applications: Ask the voice models to smile when the voices are being recorded. This will add warmth to the voice. If I remember correctly, it's a trick that salespeople use when speaking on the phone.
+
+## Inspiration
 
 The following fictional digital characters served as the inspiration for Ziggy:
 - Samantha from the movie "Her"
