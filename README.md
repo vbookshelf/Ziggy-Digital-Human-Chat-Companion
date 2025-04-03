@@ -2,7 +2,7 @@
 Ziggy is a prototype AI-powered conversational partner designed for engaging, intelligent and relaxed discussions.<br>
 Supports both text and voice.
 
-You can try Ziggy here:<br>
+Live Demo:<br>
 (Please use the Chrome browser.)<br>
 https://ziggy.voicebot.woza.work/
 
