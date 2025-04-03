@@ -1,16 +1,32 @@
-# Ziggy PHP Voicebot - Llama3-70b and Groq
-A php voicebot powered by Llama3-70b and Groq.
+# Ziggy – A Digital Human Chat Companion
+Ziggy is a prototype AI-powered conversational partner designed for engaging, intelligent and relaxed discussions.<br>
+Supports both text and voice.
 
-You can communicate with Ziggy using either your voice or text. Ziggy will respond with both voice and text. Yes, it's like Jarvis.
-
-This project demonstrates a simple and cheap way to create a personal voicebot using only HTML, CSS and Javascript.
+You can try Ziggy here:<br>
+(Please use the Chrome browser.)<br>
+https://ziggy.voicebot.woza.work/
 
 <br>
 
-You can try this PHP voicebot here:<br>
-(Please use the Chrome browser. This will only be live for a limited time.)<br>
-https://ziggy.voicebot.woza.work/
+## Notes
 
+- This project demonstrates a simple and cheap way to create a personal voicebot using only HTML, CSS, Javascript and PHP.
+- When using the voice chat I suggest wearing earphones or headphones with a mic. This will make the voice input more stable.
+- Ziggy is powered by Llama3 70b running on Groq (free version). The number of tokens per chat session is limited.
+
+## Design
+
+Ziggy is meant to be a baseline digital human that can be improved. For example you could add long term memory, a better text to speech system, an avatar with lip syncing etc. That said, I'm finding that adding more features doesn't seem to improve the experience significantly. It just complicates the code. After chatting with Ziggy you adjust to it's quirks. One of Ziggy's best features is the speed at which it works i.e. low latency. This feature is appreciated much more than a flawless human sounding voice.
+
+To date I've identified three features that I think are most important:
+- A powerful LLM
+- Low latency
+- A warm (smiley) voice 
+
+The following fictional digital characters served as the inspiration for Ziggy:
+- Samantha from the movie "Her"
+- KiTT from the "Knight Rider" series
+- Jarvis from the movie "Iron Man"
 
 <br>
 
