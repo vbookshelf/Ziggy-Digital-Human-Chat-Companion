@@ -13,6 +13,7 @@ https://ziggy.voicebot.woza.work/
 - This project demonstrates a simple and cheap way to create a personal voicebot using only HTML, CSS, Javascript and PHP.
 - When using the voice chat I suggest wearing earphones or headphones with a mic. This will make the voice input more stable.
 - Ziggy is powered by Llama3 70b running on Groq (free version). The number of tokens per chat session is limited.
+- Example discussion topic: Are we living in a simulation?
 
 ## Design
 
