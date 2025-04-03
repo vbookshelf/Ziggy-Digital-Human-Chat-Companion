@@ -24,6 +24,10 @@ To date I've identified three features that I think are most important:
 - Low latency
 - A warm (smiley) voice
 
+## Lessons Learned
+- Less advanced models are much better for casual conversation e.g. GPT3.5 is much better that the latest ChatGPT versions and Llama3-70b-8192 is much better than the latest Llama models. As models become more advanced (better at instruction following, better at avoiding censored content, supporting function calling, reduced halluncinations) they tend to lose their natural human-like conversation qualities and start to sound more like machines that are trying to sound human. 
+- Adding longer multi-line system messages that include sections and function calling instructions tend to make the chatbot produce more concise outputs that are not as natural as a chatbot with a simpler system message.
+
 ## Aside
 
 A tip for companies that are creating voices for text to speech applications: Ask the voice models to smile when the voices are being recorded. This will add warmth to the voice. If I remember correctly, it's a trick that salespeople use when speaking on the phone.
