@@ -30,7 +30,7 @@ To date I've identified three features that I think are most important:
 
 ## Aside
 
-A tip for companies that are creating voices for text to speech applications: Ask the voice models to smile when the voices are being recorded. This will add warmth to the voice. If I remember correctly, it's a trick that salespeople use when speaking on the phone.
+A tip for companies that are creating voices for text to speech applications: Ask the voice actors to smile when the voices are being recorded. This will add warmth to the voice. If I remember correctly, it's a trick that salespeople use when speaking on the phone.
 
 ## Inspiration
 
