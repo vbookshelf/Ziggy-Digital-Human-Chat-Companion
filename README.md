@@ -22,6 +22,7 @@ Ziggy is meant to be a baseline digital human that can be improved. For example 
 To date I've identified three features that I think are most important:
 - A powerful LLM
 - Low latency
+- A calm, bug free interface
 - A warm (smiley) voice
 
 ## Lessons Learned
